@@ -123,7 +123,7 @@ class _AboutUiState extends State<AboutUi> {
                     ),
                     SizedBox(height: 10),
                     Text(
-                      '6852D10008',
+                      '6852D1008',
                       style: GoogleFonts.kanit(
                         fontSize: 16,
                         fontWeight: FontWeight.bold,
